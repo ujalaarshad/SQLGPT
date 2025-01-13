@@ -65,7 +65,7 @@ If you're using Windows, the `llama-cpp` package is not available, so you will n
 
 2. **Download the Quantized Model:**
 
-    Download the quantized model from [Hugging Face](https://huggingface.co/spaces/awais009/SQLGPT/tree/main/quantized_model).
+    Download the quantized model from [Hugging Face](https://huggingface.co/spaces/ujalaarshad17/SQLGPT/tree/main/quantized_model).
 
 3. **Run the Model:**
 
@@ -91,7 +91,7 @@ If you're using Windows, the `llama-cpp` package is not available, so you will n
 
 ## Fine-Tuned and Quantization Files
 
-You can download the fine-tuned model and quantization files from the [SQLGPT Fine Tune Material Repository](https://github.com/awaistahseen009/SQLGPTFineTuneMaterial).
+You can download the fine-tuned model and quantization files from the [SQLGPT Fine Tune Material Repository](https://github.com/ujalaarshad/SQLGPTFinetunningMaterial).
 
 ## Contributing
 
